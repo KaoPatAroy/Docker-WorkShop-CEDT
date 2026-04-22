@@ -13,7 +13,7 @@ checklist item in the Self-Verification section below — tick them off as you g
 
 ## Self-Verification Checklist (10 items)
 
-Tick each box as you complete it. The workshop is **done** when all 10 are ticked.
+Tick each box as you complete it. The workshop is **done** when all 10 are ticked..
 
 - [ ] **AC-01:** `docker build -t workshop-app .` exits with status 0 locally.
 - [ ] **AC-02:** Dockerfile uses a multi-stage build (`grep -c '^FROM' Dockerfile` = 2).
